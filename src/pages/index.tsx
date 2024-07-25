@@ -7,7 +7,7 @@ import {
   Code2,
   Frame,
   SearchCheck,
-  Eye,
+  /*Eye,*/
   MonitorSmartphone,
 } from "lucide-react";
 import { TriangleDownIcon } from "@radix-ui/react-icons";
@@ -249,13 +249,13 @@ export default function Home() {
             <h2 className="py-16  pb-2 text-3xl font-light leading-normal tracking-wide text-foreground xl:text-[25px]">
               This side Ujjwal Mishra .{" "}
               <br />
-              I'm a BTech student at the "Vellore Institute of Technology"  (IT)branch  , and I'm passionate about harnessing the power of data and technology to tackle challenges and create innovative solutions. I believe in the power of a growth mindset, constantly seeking opportunities to learn and expand my skillset. Every day is a chance to push my boundaries and become a better version of myself.
+              I&apos; m a BTech student at the &quot;Vellore Institute of Technology&quot;  (IT)branch  , and I&apos;m passionate about harnessing the power of data and technology to tackle challenges and create innovative solutions. I believe in the power of a growth mindset, constantly seeking opportunities to learn and expand my skillset. Every day is a chance to push my boundaries and become a better version of myself.
 
-My academic journey has led me to explore the exciting world of data analytics. I'm also well-versed in web development, having built projects that showcase my ability to translate ideas into reality. But my interests extend beyond the technical realm. I'm a problem-solver at heart, driven by the thrill of untangling complex issues and finding creative solutions.
+My academic journey has led me to explore the exciting world of data analytics. I&apos;m also well-versed in web development, having built projects that showcase my ability to translate ideas into reality. But my interests extend beyond the technical realm. I&apos;m a problem-solver at heart, driven by the thrill of untangling complex issues and finding creative solutions.
 
-When I'm not immersed in code or data, you'll find me expressing myself creatively. When u don't find me in coding u can just find me in gym. Basketball provides a healthy outlet for my competitive spirit and teamwork skills, while acting allows me to explore different personalities and perspectives. These diverse pursuits fuel my overall growth and bring a sense of balance to my life.
+When I&apos;m not immersed in code or data, you&apos;ll find me expressing myself creatively. When u don&apos;t find me in coding u can just find me in gym. Basketball provides a healthy outlet for my competitive spirit and teamwork skills, while acting allows me to explore different personalities and perspectives. These diverse pursuits fuel my overall growth and bring a sense of balance to my life.
 
-As you navigate through my portfolio, you'll gain insights into my technical capabilities, problem-solving approach, and unwavering focus on career growth. Welcome to my world, where learning is a constant, and the journey towards excellence never ends!
+As you navigate through my portfolio, you&apos;ll gain insights into my technical capabilities, problem-solving approach, and unwavering focus on career growth. Welcome to my world, where learning is a constant, and the journey towards excellence never ends!
             </h2>
             <div className="grid grid-cols-2 gap-8 xl:grid-cols-3">
               {aboutStats.map((stat) => (
@@ -308,7 +308,7 @@ As you navigate through my portfolio, you'll gain insights into my technical cap
               Digital projects.
             </h2>
             <p className="mt-1.5 text-base tracking-tight text-muted-foreground xl:text-lg">
-              I&apos;ve worked on a variety of projects, I love to make websites which are stand off to other's. Here are some of my favorites:
+              I&apos;ve worked on a variety of projects, I love to make websites which are stand off to other&apos;s. Here are some of my favorites:
             </p>
 
             {/* Carousel */}
